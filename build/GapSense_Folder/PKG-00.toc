@@ -1,0 +1,72 @@
+('D:\\kuliah\\SPK\\Tugas '
+ 'Akhir\\v3\\build\\GapSense_Folder\\GapSense_Folder.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'D:\\kuliah\\SPK\\Tugas Akhir\\v3\\build\\GapSense_Folder\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'D:\\kuliah\\SPK\\Tugas '
+   'Akhir\\v3\\build\\GapSense_Folder\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'D:\\kuliah\\SPK\\Tugas '
+   'Akhir\\v3\\build\\GapSense_Folder\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'D:\\kuliah\\SPK\\Tugas '
+   'Akhir\\v3\\build\\GapSense_Folder\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'D:\\kuliah\\SPK\\Tugas '
+   'Akhir\\v3\\build\\GapSense_Folder\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'D:\\kuliah\\SPK\\Tugas '
+   'Akhir\\v3\\build\\GapSense_Folder\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'D:\\kuliah\\SPK\\Tugas '
+   'Akhir\\v3\\tube_env\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'D:\\kuliah\\SPK\\Tugas '
+   'Akhir\\v3\\tube_env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'D:\\kuliah\\SPK\\Tugas '
+   'Akhir\\v3\\tube_env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'D:\\kuliah\\SPK\\Tugas '
+   'Akhir\\v3\\tube_env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'D:\\kuliah\\SPK\\Tugas '
+   'Akhir\\v3\\tube_env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('pyi_rth_pyqt5',
+   'D:\\kuliah\\SPK\\Tugas '
+   'Akhir\\v3\\tube_env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pyqt5.py',
+   'PYSOURCE'),
+  ('pyi_rth_mplconfig',
+   'D:\\kuliah\\SPK\\Tugas '
+   'Akhir\\v3\\tube_env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_mplconfig.py',
+   'PYSOURCE'),
+  ('gui', 'D:\\kuliah\\SPK\\Tugas Akhir\\v3\\gui.py', 'PYSOURCE')],
+ 'python313.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
