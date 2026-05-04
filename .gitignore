@@ -1,0 +1,12 @@
+# Abaikan folder hasil build/kompilasi
+dist/
+build/
+
+# Abaikan file library python yang berat
+*.pyd
+*.pyc
+__pycache__/
+
+# Abaikan file log atau env (jika ada)
+*.log
+.env
